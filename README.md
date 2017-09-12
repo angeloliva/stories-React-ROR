@@ -1,12 +1,12 @@
 # Welcome to Stories
 
-[![Stories on Github https://github.com/kenny-hibino/stories](https://raw.githubusercontent.com/kenny-hibino/stories/master/app/assets/images/stories-logo.png)](https://github.com/kenny-hibino/stories)
+[![Stories on Github https://github.com/developer-star/stories](https://raw.githubusercontent.com/developer-star/stories/master/app/assets/images/stories-logo.png)](https://github.com/developer-star/stories)
 
-Welcome to Stories. Stories is a Medium clone which began as [Ken Hibino](https://github.com/kenny-hibino “Ken Hibino”)'s personal side project to learn **Ruby on Rails** and **ReactJS**.
+Welcome to Stories. Stories is a Medium clone which began as [Ken Hibino](https://github.com/developer-star “Ken Hibino”)'s personal side project to learn **Ruby on Rails** and **ReactJS**.
 
 As the app was built [screen casts tutorials](https://www.youtube.com/playlist?list=PLoUInciCQ806CUFxld2W29V6rbGNfHzbX) were created to help other people learn... slowly it began to blossom into an elegant and powerful application and more people began to get involved, fixing bugs, improving the design and building the community.
 
-If your keen to gain some new skills, get started by following the install and configuration below, join our [gitter community](https://gitter.im/kenny-hibino/stories), look for an "**easy fix**" in the [issues list](https://github.com/kenny-hibino/stories/issues), make a [topic branch](https://github.com/dchelimsky/rspec/wiki/Topic-Branches) and submit a pull request… lets learn together. :octocat:
+If your keen to gain some new skills, get started by following the install and configuration below, join our [gitter community](https://gitter.im/developer-star/stories), look for an "**easy fix**" in the [issues list](https://github.com/developer-star/stories/issues), make a [topic branch](https://github.com/dchelimsky/rspec/wiki/Topic-Branches) and submit a pull request… lets learn together. :octocat:
 
 
 ## Useful Links
@@ -14,9 +14,9 @@ If your keen to gain some new skills, get started by following the install and c
 
 [Demo Application](https://my-medium-clone.herokuapp.com/)
 
-[Step by Step Install](https://github.com/kenny-hibino/stories/blob/master/INSTALL.md)
+[Step by Step Install](https://github.com/developer-star/stories/blob/master/INSTALL.md)
 
-[![Join the chat at https://gitter.im/kenny-hibino/stories](https://badges.gitter.im/kenny-hibino/stories.svg)](https://gitter.im/kenny-hibino/stories?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/developer-star/stories](https://badges.gitter.im/developer-star/stories.svg)](https://gitter.im/developer-star/stories?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ## Watch a Quick Video
